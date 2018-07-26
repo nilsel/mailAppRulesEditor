@@ -1,0 +1,3 @@
+XML File to parse:
+    /Users/nils/Library/Mail/V5/MailData/SyncedRules.plist
+                              <- V5 - also had a V3 folder on my system. prolly diff osx versions.
